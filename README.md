@@ -36,7 +36,7 @@ Vi har tillämpat kursens principer för datakvalitet genom att städa rådatan 
 
 1. Klona repositoryt:
 ```bash
-git clone https://github.com/vladde-dm25/gym_person_coach.git
+git clone https://github.com/vladde-dm25/gym_personlig_coach.git
 
 ```
 
