@@ -1,5 +1,5 @@
 # gym_personlig_coach
-Projekt i Datakvalitet
+Projekt i Datakvalitet (Det här är begränsad del gjörd för public access)
 Utförd av Abbe och Vladde
 * megaGymDataset.csv - original dataset
 * megaGymDataset_ready.csv - slutlig dataset
